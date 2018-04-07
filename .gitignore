@@ -10,3 +10,12 @@ build.properties
 junit*.properties
 IgnoreLexer.java~
 .gradle
+
+# Eclipse
+/.project
+/.settings
+/.buildpath
+
+# Windows
+Thumbs.db
+
